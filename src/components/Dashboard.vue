@@ -8,12 +8,9 @@
 
         <Navbar />
 
-        <div class="p-6 bg-gray-100 mb-20">
+        <div class="p-6 bg-gray-100 mb-20 w-full">
           <router-view />
         </div>
-
-        <Footer />
-
       </div>
     </div>
   </div>
@@ -24,8 +21,6 @@ import { mapState } from 'vuex'
 
 import Sidebar from './Sidebar'
 import Navbar from './Navbar'
-import Footer from './Footer'
-
 export default {
   name: 'Dashboard',
   computed: {
@@ -34,7 +29,6 @@ export default {
   components: {
     Sidebar,
     Navbar,
-    Footer
   }
 }
 </script>
