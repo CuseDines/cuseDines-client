@@ -6,9 +6,9 @@ import 'firebase/storage'
 
 //intialise firebase config
 let firebaseConfig = {
-    apiKey: "AIzaSyAkHvw4WBS32U3zgqZgoctdiNk_w7K1V3U",
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxx",
     authDomain: "cusedines.firebaseapp.com",
-    databaseURL: "https://cusedines-default-rtdb.firebaseio.com",
+    databaseURL: "xxxxxxxxxxxxxxxxxxxx",
     projectId: "cusedines",
     storageBucket: "cusedines.appspot.com",
     messagingSenderId: "967542496258",
