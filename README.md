@@ -2,6 +2,9 @@
 
 CuseDines is a food ordering and management portal for Syracuse University's Dining Halls.
 
+## Demo
+[cusedines.web.app](cusedines.web.app)
+
 ## Requirements
 
 1. Node v10 or greater
